@@ -1,0 +1,21 @@
+﻿@model Category
+@{
+    ViewData["Title"] = "إدارة التصنيف";
+    ViewBag.pagetitle = "تعديل التصنيف";
+}
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id"/>
+    <div class="mb-3 mt-3">
+        <label for="Name" class="form-label" asp-for="CategoryName"></label>
+        <input type="text" class="form-control" placeholder="Enter Category Name" asp-for="CategoryName">
+    </div>
+
+    <div class="mb-3">
+        <label for="Desc" class="form-label" asp-for="Description"></label>
+        <input type="text" class="form-control" placeholder="Enter Category Description" asp-for="Description">
+    </div>
+    <button type="submit" class="btn btn-primary">حفظ</button>
+    <a class="btn btn-primary me-3" asp-action="Index">العودة إلى الصفحة الرئيسية</a>
+</form>
+

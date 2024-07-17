@@ -1,0 +1,29 @@
+﻿@model Category
+@{
+    ViewBag.Title = "إدارة تصنيف";
+    ViewBag.pagetitle = "تصنيف جديد";
+}
+
+<h1>انشاء تصنيف</h1>
+<form  asp-action="Create">
+    <div asp-validation-summary="All"></div>
+    <div class="mb-3 mt-3">
+        <label for="Name" class="form-label" asp-for="CategoryName"></label>
+        <input type="text" class="form-control" placeholder="Enter Category Name" asp-for="CategoryName">
+        <span class="text-danger" asp-validation-for="CategoryName"></span>
+    </div>
+
+    <div class="mb-3">
+        <label for="Desc" class="form-label" asp-for="Description"></label>
+        <input type="text" class="form-control" placeholder="Enter Category Description" asp-for="Description">
+    </div>
+    <button type="submit" class="btn btn-primary">إنشاء</button>
+    <a class="btn btn-primary me-3" asp-action="Index">العودة إلى الصفحة الرئيسية</a>
+</form>
+@section Scripts{
+ 
+        <partial name="_ValidationScriptsPartial" />
+    
+ 
+}
+

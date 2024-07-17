@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<label for="cars">Theme:</label>
+
+<select name="" id="color">
+    <option value="" selected>Select color</option>
+    <option value="white-black" >Black</option>
+    <option value="red-blue-yellow">Red</option>
+    <option value="yellow-brown-green">Blue</option>
+ 
+</select>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <table class=" w-75" id="table">
+        <thead>
+            <tr>
+            <th >Name</th>
+            <th>Price</th>
+            <th>Options</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Price</td>
+                    <td><a class="btn btn-primary">Edit</a></td>
+                </tr>
+            }
+          
+        </tbody>
+
+   
+</table>
+</div>
+@section Scripts{
+    <script src="~/js/table.js"></script>
+}

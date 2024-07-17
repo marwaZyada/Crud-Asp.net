@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\EHM\\table\\table\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\table.bundle.scp.css",
+      "PackagePath": "staticwebassets\\table.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\bootstrap-rtl.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\bootstrap-rtl.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\custom-style.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\custom-style.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\css\\persian-datepicker.min.css",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\css\\persian-datepicker.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\avatar04.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\avatar04.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\mestro.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\mestro.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\core.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\core.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\persian-date.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\persian-date.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\adminlte\\js\\persian-datepicker.min.js",
+      "PackagePath": "staticwebassets\\dist\\adminlte\\js\\persian-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\EHM\\table\\table\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.table.props",
+      "PackagePath": "build\\table.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.table.props",
+      "PackagePath": "buildMultiTargeting\\table.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.table.props",
+      "PackagePath": "buildTransitive\\table.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.table.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
